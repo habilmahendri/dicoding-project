@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.SearchFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/llCatalog"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="#e9ebee"-->
+        <!--android:orientation="horizontal">-->
+
+        <!--<EditText-->
+            <!--android:visibility="gone"-->
+            <!--android:id="@+id/edt_search"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="0.1"-->
+            <!--android:hint="cari film"-->
+            <!--android:textColorHint="#000000" />-->
+
+        <!--<Button-->
+            <!--android:visibility="gone"-->
+            <!--android:id="@+id/btn_search"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="cari" />-->
+
+
+    <!--</LinearLayout>-->
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tv_noData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/cari_film_yuk"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ProgressBar
+        android:id="@+id/pg_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="visible"
+       />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/card_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:scrollbars="vertical" />
+
+
+</RelativeLayout>

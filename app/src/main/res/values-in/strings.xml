@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CatalogueMovie</string>
+    <string name="judul_film">judul film</string>
+    <string name="avenger_civil_war">Avenger civil war</string>
+    <string name="friday_mar_25_2016">Friday, Mar 25, 2016</string>
+    <string name="avenger_civil_wa">avenger civil war</string>
+    <string name="up_coming_movie">up coming Movie</string>
+    <string name="dummy">As Scott Lang awaits expiration of his term of house detention, Hope van Dyne and Dr. Hank Pym involve him in a scheme to rescue Mrs. van Dyne from the micro-universe into which she has fallen, while two groups of schemers converge on them with intentions of stealing Dr. Pym\'s inventions.</string>
+    <string name="cari_film_yuk">Cari Film Yuk</string>
+    <string name="info">INFO</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Habil mahendri</string>
+    <string name="nav_header_subtitle">habilmahendri@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ganti Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="up_coming">Segera Hadir</string>
+    <string name="search">Cari Film</string>
+    <string name="about">About</string>
+    <string name="home">Halaman</string>
+    <string name="view_all">Lihat Semua</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="cast">Pemain</string>
+    <string name="addtofavorite">ditambahkan ke favorit</string>
+    <string name="deleted">dihapus</string>
+    <string name="msg_daily_reminder">hai cek CatalogMovie, yuk</string>
+    <string name="setting">Pengaturan</string>
+    <string name="upcoming_reminder_msg">%s Rilis</string>
+
+
+
+
+</resources>
