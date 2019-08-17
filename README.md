@@ -5,4 +5,4 @@ repo ini berisi tugas akhir dari kelas Menjadi Android Developer Expert di dicod
 Api dari TheMovieDb
 
 ### ScreenShoot
-<img src="https://user-images.githubusercontent.com/34161835/46518754-17895980-c8a0-11e8-912e-b197d42a07a4.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/34161835/63206351-e4793e80-c0dc-11e9-886a-87141bb3fd64.jpg" width="250">
